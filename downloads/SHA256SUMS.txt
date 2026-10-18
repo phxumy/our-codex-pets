@@ -1,0 +1,3 @@
+378beb31f96baad8e4f61b87d7dfba4829927a013f5c078ba786de5de70e4a5b  downloads/her-mini-v1.0.0.zip
+2ec5d40da09f137d0938fa4ad9c063c82a1b730b883f89fb4e6c46edf83e6990  her-mini/spritesheet.webp
+296730867ed199ad3767741743c0c4feea41c01076a83d583033cca0118ea04c  her-mini/pet.json
