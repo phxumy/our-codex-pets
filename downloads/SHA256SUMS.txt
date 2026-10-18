@@ -1,3 +1,6 @@
 378beb31f96baad8e4f61b87d7dfba4829927a013f5c078ba786de5de70e4a5b  downloads/her-mini-v1.0.0.zip
+29fbb9ab2ef86eef9b18c1d3065e44cfdf0b47de1c9f3d9286da21115c7d2a56  downloads/xiaomeimei-v1.1.0.zip
 2ec5d40da09f137d0938fa4ad9c063c82a1b730b883f89fb4e6c46edf83e6990  her-mini/spritesheet.webp
-296730867ed199ad3767741743c0c4feea41c01076a83d583033cca0118ea04c  her-mini/pet.json
+32f918c61c96722672da786f5e987139958bd35f45e71b36d0b7f259994f7ac0  her-mini/pet.json
+114f1bd23a32be7c96db861ad5f9a381c7ed11553d1b217da5b182a54a9c2956  her-mini-laptop/spritesheet.webp
+fe86beea1f3b61b5da13504b2a4a1f47950ce1746bc187ce9964fc2c8dc79326  her-mini-laptop/pet.json
